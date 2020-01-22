@@ -1,0 +1,11 @@
+C:\Users\chhitarmalk\source\repos\Sending\Sending\bin\Debug\netcoreapp2.1\Sending.deps.json
+C:\Users\chhitarmalk\source\repos\Sending\Sending\bin\Debug\netcoreapp2.1\Sending.runtimeconfig.json
+C:\Users\chhitarmalk\source\repos\Sending\Sending\bin\Debug\netcoreapp2.1\Sending.runtimeconfig.dev.json
+C:\Users\chhitarmalk\source\repos\Sending\Sending\bin\Debug\netcoreapp2.1\Sending.dll
+C:\Users\chhitarmalk\source\repos\Sending\Sending\obj\Debug\netcoreapp2.1\Sending.csprojAssemblyReference.cache
+C:\Users\chhitarmalk\source\repos\Sending\Sending\obj\Debug\netcoreapp2.1\Sending.csproj.CoreCompileInputs.cache
+C:\Users\chhitarmalk\source\repos\Sending\Sending\obj\Debug\netcoreapp2.1\Sending.AssemblyInfoInputs.cache
+C:\Users\chhitarmalk\source\repos\Sending\Sending\obj\Debug\netcoreapp2.1\Sending.AssemblyInfo.cs
+C:\Users\chhitarmalk\source\repos\Sending\Sending\bin\Debug\netcoreapp2.1\Sending.pdb
+C:\Users\chhitarmalk\source\repos\Sending\Sending\obj\Debug\netcoreapp2.1\Sending.dll
+C:\Users\chhitarmalk\source\repos\Sending\Sending\obj\Debug\netcoreapp2.1\Sending.pdb
